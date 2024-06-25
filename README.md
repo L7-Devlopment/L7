@@ -5,6 +5,6 @@
 -->
 <p align="center">
   <img src="https://i.giphy.com/D6aoDE0OSYiYojubBW.webp" height="200"><br>
-  <samp><b>[a ship in harbor is safe but that is not what ships are built for.](https://i.giphy.com/D6aoDE0OSYiYojubBW.webp)</b></samp><br>
-  <samp>賢い(sun tzu)</samp>
+  <samp><b>in the midst of chaos, there is also opportunity.</b></samp><br>
+  <samp>戦争(sun tzu)</samp>
 </p>
